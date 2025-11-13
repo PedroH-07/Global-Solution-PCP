@@ -74,13 +74,12 @@ python3 main.py
 
 #### PyCharm:
 1. **Abrir projeto**: File → Open → Selecionar pasta `Global-Solution-PCP`
-2. **Configurar interpretador**: File → Settings → Project → Python Interpreter
-3. **Executar**: Clicar com botão direito no arquivo `main.py` → Run 'main'
-4. **Ou usar atalho**: Ctrl + Shift + F10 (Windows/Linux) ou Cmd + Shift + R (Mac)
+2. **Executar**: Clicar com botão direito no arquivo `main.py` → Run 'main'
+3. **Ou usar atalho**: Ctrl + Shift + F10 (Windows/Linux) ou Cmd + Shift + R (Mac)
 
 #### Visual Studio Code:
 1. **Abrir projeto**: File → Open Folder → Selecionar pasta `Global-Solution-PCP`
-2. **Instalar extensão Python**: Ctrl + Shift + X → Pesquisar "Python" → Instalar
+2. **Selecionar arquivo a ser executado**: `main.py`
 3. **Executar**: Clicar no botão de play no canto superior direito do editor
 4. **Ou usar atalho**: Ctrl + F5 (executar sem debug) ou F5 (executar com debug)
 5. **Ou via terminal integrado**: Ctrl + ` → `python main.py`
@@ -92,24 +91,6 @@ python3 main.py
 - Certifique-se de estar executando da pasta raiz do projeto
 - Verifique se a pasta `orientacao_carreiras` existe
 - Confirme que o arquivo `__init__.py` está presente
-
-### Interface do Sistema
-
-Após executar, você verá a tela inicial:
-
-### Tela Principal
-
-### Menu de Opções
-
-### Criação de Perfil
-
-### Adição de Competências
-
-### Recomendações de Carreiras
-
-## Arquitetura do Sistema
-
-### Classes Principais
 
 #### 1. **Perfil**
 Representa o perfil profissional do usuário.
@@ -181,15 +162,6 @@ compatibilidade = (pontos_usuario / pontos_maximos) * 100
 - **Competências Desejáveis**: Peso mínimo
 - **Crescimento da Carreira**: Fator de ordenação
 - **Facilidade de Desenvolvimento**: Análise de gaps
-
-## Requisitos Técnicos Atendidos
-
-- **Código em Python**: Linguagem principal do projeto
-- **Organização Modular**: Classes organizadas em módulos
-- **Listas, Tuplas, Dicionários**: Extensivo uso de estruturas de dados
-- **Classes e Métodos**: Implementação completa de POO
-- **Funções e Condicionais**: Lógica de processamento e recomendações
-- **Interface CLI**: Interação completa via terminal
 
 ## Conceitos Demonstrados
 
