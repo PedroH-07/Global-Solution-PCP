@@ -210,5 +210,22 @@ compatibilidade = (pontos_usuario / pontos_maximos) * 100
 
 ### Exemplos de uso
 
+## Tela Principal
+![Tela Inicial do Sistema](https://github.com/PedroH-07/Global-Solution-PCP/blob/main/screenshots/tela_inicial.png?raw=true)
+
+## Menu de Opções
+![Menu Principal](https://github.com/PedroH-07/Global-Solution-PCP/blob/main/screenshots/menu-principal.png?raw=true)
+
+## Criação de Perfil
+![Criando Novo Perfil](https://github.com/PedroH-07/Global-Solution-PCP/blob/main/screenshots/criacao_de_perfil.png?raw=true)
+
+## Competências Disponiveis
+![Competências Disponiveis](https://github.com/PedroH-07/Global-Solution-PCP/blob/main/screenshots/competencias_disponiveis.png?raw=true)
+
+## Adição de Competências
+![Adicionando Competências](https://github.com/PedroH-07/Global-Solution-PCP/blob/main/screenshots/competencias.png?raw=true)
+
+## Recomendações de Carreiras
+![Recomendações Geradas](https://github.com/PedroH-07/Global-Solution-PCP/blob/main/screenshots/recomendacoes.png?raw=true)
 
 **Sistema de Orientação de Carreiras** - Preparando profissionais para o futuro do trabalho!
