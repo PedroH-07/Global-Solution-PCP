@@ -92,7 +92,7 @@ python3 main.py
 - Verifique se a pasta `orientacao_carreiras` existe
 - Confirme que o arquivo `__init__.py` está presente
 
-### Opções da Interface e suas oque são
+### Opções da Interface e oque são
 
 #### 1. **Perfil**
 Representa o perfil profissional do usuário.
