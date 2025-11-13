@@ -81,7 +81,7 @@ python3 main.py
 #### Visual Studio Code:
 1. **Abrir projeto**: File → Open Folder → Selecionar pasta `Global-Solution-PCP`
 2. **Instalar extensão Python**: Ctrl + Shift + X → Pesquisar "Python" → Instalar
-3. **Executar**: Clicar no botão ▶️ no canto superior direito do editor
+3. **Executar**: Clicar no botão de play no canto superior direito do editor
 4. **Ou usar atalho**: Ctrl + F5 (executar sem debug) ou F5 (executar com debug)
 5. **Ou via terminal integrado**: Ctrl + ` → `python main.py`
 
