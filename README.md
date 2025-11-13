@@ -208,7 +208,7 @@ compatibilidade = (pontos_usuario / pontos_maximos) * 100
 - **Cálculos Matemáticos**: Percentuais de compatibilidade
 - **Processamento de Dados**: Análise automatizada de perfis
 
-### Exemplos de uso
+### Demonstração de uso
 
 ## Tela Principal
 ![Tela Inicial do Sistema](https://github.com/PedroH-07/Global-Solution-PCP/blob/main/screenshots/tela_inicial.png?raw=true)
